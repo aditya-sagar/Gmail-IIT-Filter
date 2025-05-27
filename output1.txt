@@ -1,0 +1,65 @@
+Processing aditya.sagar.official@gmail.com...
+Number of messages for aditya.sagar.official@gmail.com: 2669
+Time to search emails for aditya.sagar.official@gmail.com: 17 minutes 49 seconds
+Time to process aditya.sagar.official@gmail.com: 17 minutes 49 seconds
+
+Processing aditya.sagar.iitd@gmail.com...
+Number of messages for aditya.sagar.iitd@gmail.com: 4674
+Time to search emails for aditya.sagar.iitd@gmail.com: 36 minutes 19 seconds
+Time to process aditya.sagar.iitd@gmail.com: 36 minutes 22 seconds
+
+Processing aditya.ninetythree@gmail.com...
+Number of messages for aditya.ninetythree@gmail.com: 5953
+Time to search emails for aditya.ninetythree@gmail.com: 72 minutes 32 seconds
+Time to process aditya.ninetythree@gmail.com: 72 minutes 36 seconds
+
+Senders with 'iit' in email address for aditya.sagar.official@gmail.com:
+From To/CC/BCC:
+iitpatna@em.goconnectmail.com
+info@iitiimshaadi.com
+office@iitdalumni.com
+
+From Trash/Spam:
+None found.
+
+Senders with 'iit' in email address for aditya.sagar.iitd@gmail.com:
+From To/CC/BCC:
+ankitas.endowment@alumni.iitd.ac.in
+ceo@iitdendowmentfund.in
+communications@iitdelhialumni.com
+iitjeemainadvanced-space@quora.com
+noreply@alumni.iitd.ac.in
+student.coordinator@alumni.iitd.ac.in
+support@alumni.iitd.ac.in
+
+From Trash/Spam:
+None found.
+
+Senders with 'iit' in email address for aditya.ninetythree@gmail.com:
+From To/CC/BCC:
+aditya.sagar.iitd@gmail.com
+amar.srivastava@tryst-iitd.com
+aseth@cse.iitd.ernet.in
+bagchi@cse.iitd.ac.in
+connect@iitdaa.mails.org.in
+enterpreneur.iitd@gmail.com
+hpchelp@iitd.ac.in
+iitdaa@almashine.com
+iitdaa@almashines.com
+iitees.tshirts@outlook.com
+info.bsw.iitdelhi@gmail.com
+kolin@cse.iitd.ac.in
+mayank.raj.iitd@gmail.com
+nikhilpatidariitd@gmail.com
+office@iitdalumni.com
+placement@admin.iitd.ac.in
+placement@admin.iitd.ernet.in
+rahulgarg@cse.iitd.ac.in
+scgupta@cse.iitd.ac.in
+secretary@iitdalumni.com
+srsarangi@cse.iitd.ac.in
+student.coordinator@alumni.iitd.ac.in
+vinay@cse.iitd.ernet.in
+
+From Trash/Spam:
+None found.

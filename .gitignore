@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# C/C++
+build/
+*.o
+*.out
+*.exe
+
+# IDE settings
+.vscode/
+.idea/
