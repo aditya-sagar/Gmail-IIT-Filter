@@ -32,7 +32,7 @@ def authenticate_gmail(token_file='token.pickle'):
             raise Exception(f"No valid credentials found in {token_file}. Please run authenticate_accounts.py first.")
         with open(token_file, 'wb') as token:
             pickle.dump(creds, token)
-    http = httplib2.Http(timeout=120)
+    http = httplib2.Http(timeout=140)
     authorized_http = google_auth_httplib2.AuthorizedHttp(creds, http=http)
     return build('gmail', 'v1', http=authorized_http)
 
